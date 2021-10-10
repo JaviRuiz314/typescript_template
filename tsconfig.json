@@ -5,6 +5,7 @@
         "module": "es2015",
         "sourceMap": true,
         "experimentalDecorators": true,
-        "outDir": "dist"
+        "outDir": "dist",
+        "rootDir": "./src"
     }
   }
